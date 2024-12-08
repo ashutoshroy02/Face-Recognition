@@ -53,4 +53,4 @@ The `dataacollect.py` script is responsible for collecting face images for train
 - Ensure good lighting and face visibility
 
 ## Next Steps
-After running this script, proceed to model training using `trainingdemo.py`
+After running this script, proceed to Model Testing 'Modeltesting.py' as model training is done just after the data collectection automatically.
